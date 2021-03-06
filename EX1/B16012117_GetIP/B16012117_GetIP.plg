@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: B16012117_GetIP - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/B16012117_GetIP.res" /d "_DEBUG" "C:\Users\kirito98612\Desktop\»Ìº˛…Ëº∆\B16012117\B16012117_GetIP\B16012117_GetIP.rc"" 
+Creating temporary file "C:\Users\KIRITO~1\AppData\Local\Temp\RSP10FE.tmp" with contents
+[
+IPHLPAPI.LIB /nologo /subsystem:windows /incremental:yes /pdb:"Debug/B16012117_GetIP.pdb" /debug /machine:I386 /out:"Debug/B16012117_GetIP.exe" /pdbtype:sept 
+".\Debug\B16012117_GetIP.obj"
+".\Debug\B16012117_GetIPDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\B16012117_GetIP.res"
+]
+Creating command line "link.exe @C:\Users\KIRITO~1\AppData\Local\Temp\RSP10FE.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+B16012117_GetIP.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
