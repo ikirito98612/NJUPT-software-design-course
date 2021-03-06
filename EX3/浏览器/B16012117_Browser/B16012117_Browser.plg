@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: B16012117_Browser - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\KIRITO~1\AppData\Local\Temp\RSP433E.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/B16012117_Browser.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\kirito98612\Desktop\软件设计\B16012117 -做的实验\EX3\浏览器\要解决脚本错误弹窗\B16012117_Browser\B16012117_BrowserView.cpp"
+]
+Creating command line "cl.exe @C:\Users\KIRITO~1\AppData\Local\Temp\RSP433E.tmp" 
+Creating temporary file "C:\Users\KIRITO~1\AppData\Local\Temp\RSP433F.tmp" with contents
+[
+Wininet.lib Shlwapi.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/B16012117_Browser.pdb" /debug /machine:I386 /out:"Debug/B16012117_Browser.exe" /pdbtype:sept 
+".\Debug\B16012117_Browser.obj"
+".\Debug\B16012117_BrowserDoc.obj"
+".\Debug\B16012117_BrowserView.obj"
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\B16012117_Browser.res"
+]
+Creating command line "link.exe @C:\Users\KIRITO~1\AppData\Local\Temp\RSP433F.tmp"
+<h3>Output Window</h3>
+Compiling...
+B16012117_BrowserView.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+B16012117_Browser.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
